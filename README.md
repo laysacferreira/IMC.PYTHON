@@ -2,36 +2,33 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto consiste em uma calculadora de IMC (Índice de Massa Corporal) desenvolvida em Python. O objetivo é calcular o IMC a partir do peso e altura informados pelo usuário e classificar o resultado de acordo com os padrões de saúde.
+Este projeto foi desenvolvido com o objetivo de aplicar conceitos básicos de programação utilizando a linguagem Python, por meio da criação de uma calculadora de IMC (Índice de Massa Corporal).
+
+## 📝 Descrição
+
+O sistema solicita ao usuário informações como peso e altura, realiza o cálculo do IMC e apresenta o resultado junto com sua classificação, como baixo peso, peso normal, sobrepeso ou obesidade. O projeto utiliza estruturas simples de programação, como entrada de dados, operações matemáticas e condicionais.
 
 ## ⚙️ Funcionalidades
 
+* Entrada de peso e altura pelo usuário
 * Cálculo automático do IMC
-* Classificação do resultado (baixo peso, normal, sobrepeso, etc.)
-* Entrada de dados pelo usuário
-
-## 🧠 Como funciona
-
-O programa solicita o peso e a altura do usuário, realiza o cálculo do IMC e exibe o resultado junto com a classificação correspondente.
+* Exibição do resultado
+* Classificação do IMC
 
 ## 💻 Tecnologias utilizadas
 
 * Python
 
 ## ▶️ Execução
-
 ![imagemIMC](https://github.com/laysacferreira/IMC.PYTHON/blob/main/imcfoto.png)
 
 ## 📊 Fórmula do IMC
 
 IMC = peso / (altura * altura)
 
-## 🎯 Objetivo
+## 🎯 Conclusão
 
-Praticar lógica de programação e aplicação de conceitos básicos em Python.
+O desenvolvimento deste projeto contribuiu para a compreensão de conceitos fundamentais da programação, como variáveis, operadores e estruturas condicionais. Além disso, permitiu a aplicação prática desses conhecimentos na criação de uma solução simples e funcional.
 
-## 📚 Observação
-
-Projeto desenvolvido para fins educacionais.
 
 
