@@ -1,3 +1,3 @@
 # IMC.PYTHON
 ## Sobre o projeto...
-![imagemIMC](
+![imagemIMC](https://github.com/laysacferreira/IMC.PYTHON/blob/main/imcfoto.png)
